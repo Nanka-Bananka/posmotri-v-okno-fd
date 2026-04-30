@@ -85,7 +85,7 @@ ol {
   flex-direction: column;
   gap: 30px;
   height: 298px;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 .content__list {
